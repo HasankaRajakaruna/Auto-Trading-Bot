@@ -7,7 +7,7 @@ This Python-based auto trading bot is equipped with the powerful Chandelier Exit
 
 Run the bot effortlessly and customize coin pairs to align with your trading preferences.
 
-Chandelier Exit Indicator In Live Chart
+Chandelier Exit Indicator In Live Chart - BTCUSDT
 
 ![image](https://github.com/HasankaRajakaruna/Auto-Trading-Bot/assets/111698446/6f0de4cc-d2a7-4c80-96c9-a6fba570de9f)
 
